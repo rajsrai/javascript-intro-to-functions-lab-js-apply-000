@@ -25,5 +25,5 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   if (string.toMixedCase() === mixedCase)
-  retun "I love you, too"
+  return "I love you, too"
 }
