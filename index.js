@@ -23,3 +23,4 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
 }
 
+if sayHiToGrandma(string)
